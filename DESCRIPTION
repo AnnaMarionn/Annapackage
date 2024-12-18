@@ -1,0 +1,16 @@
+Package: Annapackage
+Type: Package
+Title: Anna's attempt
+Version: 0.1.0
+Author: Anna Marion
+Maintainer: The package maintainer <anna.marion.01@gmail.com>
+Description: Simple functions for math.
+Encoding: UTF-8
+Language: en-GB
+License: GPL(>=2)
+Depends: R (>= 4.0.0), would also work with subversions
+Imports: devtools
+Suggests: knitr
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2024-12-18 12:20:03 UTC; AnnaMarionn
