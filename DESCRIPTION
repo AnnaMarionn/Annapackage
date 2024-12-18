@@ -8,7 +8,7 @@ Description: Simple functions for math.
 Encoding: UTF-8
 Language: en-GB
 License: GPL(>=2)
-Depends: R (>= 4.0.0), would also work with subversions
+Depends: R (>= 4.0.0)
 Imports: devtools
 Suggests: knitr
 Config/testthat/edition: 3
