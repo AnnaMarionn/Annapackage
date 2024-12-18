@@ -5,14 +5,13 @@ Bibi <- function(x){
 if(x>0)  {
   print("Positive number")
   }
-  else if
-# print("Positive number")
-  } else if(x==0)
-  {
-  print("Hey, don't miss around. Zero is nor negative nor positive okkkkk?????")
-  }
-# else if(x<0)
+  else if(x<0)
   {
   print("Negative number")
   }
+  else if(x==0)
+   {
+  print("0 is just 0, dummy")
+  }
 }
+
